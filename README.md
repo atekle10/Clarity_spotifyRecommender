@@ -19,7 +19,7 @@ This project aims to help users discover new music on Spotify by analyzing songs
 ## Usage
 
 1. Run the Python script or Jupyter notebook to start the recommender system.
-2. Follow the prompts to input your Spotify account information and listening preferences.
+2. Follow the prompts to input a spotify song id's (1-10).
 3. The recommender system will generate a list of recommended songs based on your input.
 
 ## Contributing
