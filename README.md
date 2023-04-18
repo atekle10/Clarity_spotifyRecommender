@@ -11,7 +11,7 @@ This project aims to help users discover new music on Spotify by analyzing songs
 
 ## Installation
 
-1. Clone this repository(more specifically: updated_ML_Model.ipynb)
+1. Clone this repository(more specifically: ML_Model.ipynb)
 2. Install the required packages:
 
 3. Obtain a [Spotify API key](https://developer.spotify.com/dashboard/applications) and set up the required environment variables.
